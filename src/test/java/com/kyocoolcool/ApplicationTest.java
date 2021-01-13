@@ -8,6 +8,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class ApplicationTest {
     @Test
      void test() {
-        Assertions.assertEquals( 1 + 1 , 2);
+        Assertions.assertEquals( 2 + 3 , 5);
     }
 }
